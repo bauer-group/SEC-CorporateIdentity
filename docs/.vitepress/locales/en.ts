@@ -87,10 +87,12 @@ export const en: LocaleSpecificConfig<DefaultTheme.Config> & { label: string; li
           ]
         },
         {
-          text: 'Print & Production',
+          text: 'Print & Stationery',
           items: [
             { text: 'CMYK & Pantone', link: '/en/print/' },
             { text: 'Paper Specs', link: '/en/print/paper' },
+            { text: 'Business Cards', link: '/en/print/business-cards' },
+            { text: 'Stamps', link: '/en/print/stamps' },
           ]
         },
         {
@@ -114,13 +116,19 @@ export const en: LocaleSpecificConfig<DefaultTheme.Config> & { label: string; li
             { text: 'Social Media', link: '/en/digital/social-media' },
             { text: 'Web Banners & Layouts', link: '/en/digital/web-banners' },
             { text: 'Email & Newsletter', link: '/en/digital/email' },
+            { text: 'Canva Design Workflow', link: '/en/digital/canva' },
           ]
         },
         {
           text: 'Advertising',
-          collapsed: true,
           items: [
-            { text: 'Stationery & Materials', link: '/en/advertising/' },
+            { text: 'Overview', link: '/en/advertising/' },
+            { text: 'Notepads', link: '/en/advertising/notepads' },
+            { text: 'Sticky Notes', link: '/en/advertising/sticky-notes' },
+            { text: 'Pens', link: '/en/advertising/pens' },
+            { text: 'Folders', link: '/en/advertising/folders' },
+            { text: 'Lighters', link: '/en/advertising/lighters' },
+            { text: 'Bags', link: '/en/advertising/bags' },
           ]
         },
         {

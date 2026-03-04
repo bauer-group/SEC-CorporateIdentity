@@ -28,6 +28,18 @@
   --bg-gray-800: #3A3430;
   --bg-gray-900: #231F1C;
 
+  /* Neutral Gray Scale (Print) */
+  --bg-neutral-50: #F7F7F7;
+  --bg-neutral-100: #EBEBEB;
+  --bg-neutral-200: #D1D1D1;
+  --bg-neutral-300: #B8B8B8;
+  --bg-neutral-400: #9E9E9E;
+  --bg-neutral-500: #7F7F7F;
+  --bg-neutral-600: #666666;
+  --bg-neutral-700: #4D4D4D;
+  --bg-neutral-800: #333333;
+  --bg-neutral-900: #1C1C1C;
+
   /* Brand Neutrals */
   --brand-white: #FFFFFF;
   --brand-light: #F9F8F6;   /* = Warm 50 */

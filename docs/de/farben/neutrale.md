@@ -69,7 +69,8 @@ Die Brand-Neutrals sind **direkte Referenzpunkte** aus der Warm-Gray-Skala — k
 ::: info Wann welches System?
 
 - **Brand-Neutrals** für offizielle Markenmaterialien, Print, Marketing-Assets — die 4 festen Referenzwerte
-- **Warm-Gray-Skala** für digitale Interfaces, wo feingranulare Abstufungen (50–900) benötigt werden
+- **Warm-Gray-Skala** für digitale Interfaces, wo feingranulare Abstufungen (50–900) mit warmem Unterton benötigt werden
+- **Neutral-Gray-Skala** für Print-Raster, technische Elemente und sachliche Darstellungen ohne Farbunterton — siehe [Farbskalen → Neutral-Gray](/de/farben/skalen#neutral-gray-skala)
 
 :::
 

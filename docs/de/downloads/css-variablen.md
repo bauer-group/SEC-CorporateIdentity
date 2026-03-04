@@ -30,6 +30,18 @@ Vollständiges CSS Custom Properties Set für die Implementierung des BAUER GROU
   --warm-800: #3A3430;   /* Headlines, Brand Dark */
   --warm-900: #231F1C;   /* Brand Black */
 
+  /* ─── Neutral Gray (Print / Technisch) ─── */
+  --gray-50: #F7F7F7;
+  --gray-100: #EBEBEB;
+  --gray-200: #D1D1D1;     /* Print-Raster */
+  --gray-300: #B8B8B8;
+  --gray-400: #9E9E9E;
+  --gray-500: #7F7F7F;     /* Print-Akzentbalken */
+  --gray-600: #666666;
+  --gray-700: #4D4D4D;
+  --gray-800: #333333;
+  --gray-900: #1C1C1C;
+
   /* ─── Brand Neutrals ─── */
   --brand-white: #FFFFFF;
   --brand-light: #F9F8F6;  /* = Warm 50 */

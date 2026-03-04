@@ -82,10 +82,12 @@ export const de: LocaleSpecificConfig<DefaultTheme.Config> & { label: string; li
           ]
         },
         {
-          text: 'Print & Produktion',
+          text: 'Print & Geschäftsausstattung',
           items: [
             { text: 'CMYK & Pantone', link: '/de/print/' },
             { text: 'Papierempfehlungen', link: '/de/print/papier' },
+            { text: 'Visitenkarten', link: '/de/print/visitenkarten' },
+            { text: 'Stempel', link: '/de/print/stempel' },
           ]
         },
         {
@@ -109,13 +111,19 @@ export const de: LocaleSpecificConfig<DefaultTheme.Config> & { label: string; li
             { text: 'Social Media', link: '/de/digital/social-media' },
             { text: 'Web Banner & Layouts', link: '/de/digital/web-banner' },
             { text: 'E-Mail & Newsletter', link: '/de/digital/email' },
+            { text: 'Canva Design-Workflow', link: '/de/digital/canva' },
           ]
         },
         {
           text: 'Werbemittel',
-          collapsed: true,
           items: [
-            { text: 'Geschäftsausstattung', link: '/de/werbemittel/' },
+            { text: 'Übersicht', link: '/de/werbemittel/' },
+            { text: 'Schreibblöcke', link: '/de/werbemittel/bloecke' },
+            { text: 'Klebezettel', link: '/de/werbemittel/klebezettel' },
+            { text: 'Kugelschreiber', link: '/de/werbemittel/kugelschreiber' },
+            { text: 'Mappen', link: '/de/werbemittel/mappen' },
+            { text: 'Feuerzeuge', link: '/de/werbemittel/feuerzeuge' },
+            { text: 'Taschen', link: '/de/werbemittel/taschen' },
           ]
         },
         {

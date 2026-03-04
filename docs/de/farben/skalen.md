@@ -56,6 +56,40 @@
 | **800** | `#3A3430` | <span style="display:inline-block;width:48px;height:24px;background:#3A3430;border-radius:4px;vertical-align:middle;"></span> | Headlines, Brand Dark |
 | **900** | `#231F1C` | <span style="display:inline-block;width:48px;height:24px;background:#231F1C;border-radius:4px;vertical-align:middle;"></span> | Maximaler Kontrast, Brand Black |
 
+## Neutral-Gray Skala
+
+Rein neutrale Grautöne (Sättigung 0%) — bewährt in Print-Materialien (Rasterlinien, technische Elemente, Akzentbalken). Referenzwerte aus den [Schreibblöcken](/de/werbemittel/bloecke).
+
+<div class="color-scale">
+  <div style="background:#F7F7F7;color:#1C1C1C;">50</div>
+  <div style="background:#EBEBEB;color:#1C1C1C;">100</div>
+  <div style="background:#D1D1D1;color:#1C1C1C;">200</div>
+  <div style="background:#B8B8B8;color:#1C1C1C;">300</div>
+  <div style="background:#9E9E9E;color:white;">400</div>
+  <div style="background:#7F7F7F;color:white;">500</div>
+  <div style="background:#666666;color:white;">600</div>
+  <div style="background:#4D4D4D;color:white;">700</div>
+  <div style="background:#333333;color:white;">800</div>
+  <div style="background:#1C1C1C;color:white;">900</div>
+</div>
+
+| Stufe | HEX | Vorschau | Anwendung |
+|-------|-----|----------|-----------|
+| **50** | `#F7F7F7` | <span style="display:inline-block;width:48px;height:24px;background:#F7F7F7;border-radius:4px;border:1px solid #E4E4E7;vertical-align:middle;"></span> | Helle Hintergründe |
+| **100** | `#EBEBEB` | <span style="display:inline-block;width:48px;height:24px;background:#EBEBEB;border-radius:4px;border:1px solid #E4E4E7;vertical-align:middle;"></span> | Subtile Trennlinien |
+| **200** | `#D1D1D1` | <span style="display:inline-block;width:48px;height:24px;background:#D1D1D1;border-radius:4px;vertical-align:middle;"></span> | **Print-Raster**, Hilfslinien |
+| **300** | `#B8B8B8` | <span style="display:inline-block;width:48px;height:24px;background:#B8B8B8;border-radius:4px;vertical-align:middle;"></span> | Rahmen, Dekoration |
+| **400** | `#9E9E9E` | <span style="display:inline-block;width:48px;height:24px;background:#9E9E9E;border-radius:4px;vertical-align:middle;"></span> | Deaktivierte Elemente |
+| **500** | `#7F7F7F` | <span style="display:inline-block;width:48px;height:24px;background:#7F7F7F;border-radius:4px;vertical-align:middle;"></span> | **Print-Akzentbalken**, Mitteltöne |
+| **600** | `#666666` | <span style="display:inline-block;width:48px;height:24px;background:#666666;border-radius:4px;vertical-align:middle;"></span> | Sekundärtext (Print) |
+| **700** | `#4D4D4D` | <span style="display:inline-block;width:48px;height:24px;background:#4D4D4D;border-radius:4px;vertical-align:middle;"></span> | Text (Print) |
+| **800** | `#333333` | <span style="display:inline-block;width:48px;height:24px;background:#333333;border-radius:4px;vertical-align:middle;"></span> | Headlines (Print) |
+| **900** | `#1C1C1C` | <span style="display:inline-block;width:48px;height:24px;background:#1C1C1C;border-radius:4px;vertical-align:middle;"></span> | Maximaler Kontrast |
+
+::: info Warm-Gray vs. Neutral-Gray
+**Warm-Gray** (Hue ~28°, Sättigung ~6–14%) für digitale Interfaces und Branding-Flächen mit emotionaler Wärme. **Neutral-Gray** (Sättigung 0%) für Print-Raster, technische Zeichnungen und sachliche Darstellungen.
+:::
+
 ## CSS Custom Properties
 
 ```css
@@ -71,5 +105,11 @@
   --warm-400: #A69E97;    --warm-500: #887F78;
   --warm-600: #6B635C;    --warm-700: #524B45;
   --warm-800: #3A3430;    --warm-900: #231F1C;
+
+  --gray-50: #F7F7F7;     --gray-100: #EBEBEB;
+  --gray-200: #D1D1D1;    --gray-300: #B8B8B8;
+  --gray-400: #9E9E9E;    --gray-500: #7F7F7F;
+  --gray-600: #666666;    --gray-700: #4D4D4D;
+  --gray-800: #333333;    --gray-900: #1C1C1C;
 }
 ```
