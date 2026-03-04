@@ -16,17 +16,23 @@
   --bg-orange-800: #9A4509;
   --bg-orange-900: #7C3A0A;
 
-  /* Gray Scale */
-  --bg-gray-50: #FAFAFA;
-  --bg-gray-100: #F4F4F5;
-  --bg-gray-200: #E4E4E7;
-  --bg-gray-300: #D4D4D8;
-  --bg-gray-400: #A1A1AA;
-  --bg-gray-500: #71717A;
-  --bg-gray-600: #52525B;
-  --bg-gray-700: #3F3F46;
-  --bg-gray-800: #27272A;
-  --bg-gray-900: #18181B;
+  /* Warm Gray Scale (Supporting Colors) */
+  --bg-gray-50: #F9F8F6;
+  --bg-gray-100: #F0EDEA;
+  --bg-gray-200: #E0DBD6;
+  --bg-gray-300: #C4BDB7;
+  --bg-gray-400: #A69E97;
+  --bg-gray-500: #887F78;
+  --bg-gray-600: #6B635C;
+  --bg-gray-700: #524B45;
+  --bg-gray-800: #3A3430;
+  --bg-gray-900: #231F1C;
+
+  /* Brand Neutrals */
+  --brand-white: #FFFFFF;
+  --brand-light: #F9F8F6;   /* = Warm 50 */
+  --brand-dark: #3A3430;     /* = Warm 800 */
+  --brand-black: #231F1C;    /* = Warm 900 */
 
   /* VitePress Brand Mapping */
   --vp-c-brand-1: #FF8500;
@@ -94,6 +100,7 @@
   --vp-button-brand-bg: #FB923C;
   --vp-button-brand-hover-bg: #FF8500;
   --vp-button-brand-active-bg: #EA6D00;
+
 }
 
 /* ─── Hero Section ─── */

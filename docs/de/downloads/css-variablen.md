@@ -18,17 +18,23 @@ Vollständiges CSS Custom Properties Set für die Implementierung des BAUER GROU
   --orange-800: #9A4509;  /* Text AAA */
   --orange-900: #7C3A0A;
 
-  /* ─── Neutrals: Grau ─── */
-  --gray-50: #FAFAFA;
-  --gray-100: #F4F4F5;
-  --gray-200: #E4E4E7;
-  --gray-300: #D4D4D8;
-  --gray-400: #A1A1AA;
-  --gray-500: #71717A;
-  --gray-600: #52525B;   /* Body Text AAA */
-  --gray-700: #3F3F46;
-  --gray-800: #27272A;
-  --gray-900: #18181B;   /* Headlines */
+  /* ─── Warm Gray (Unterstützende Farben) ─── */
+  --warm-50: #F9F8F6;
+  --warm-100: #F0EDEA;
+  --warm-200: #E0DBD6;
+  --warm-300: #C4BDB7;
+  --warm-400: #A69E97;
+  --warm-500: #887F78;
+  --warm-600: #6B635C;   /* Body Text AA */
+  --warm-700: #524B45;   /* Strong Text AAA */
+  --warm-800: #3A3430;   /* Headlines, Brand Dark */
+  --warm-900: #231F1C;   /* Brand Black */
+
+  /* ─── Brand Neutrals ─── */
+  --brand-white: #FFFFFF;
+  --brand-light: #F9F8F6;  /* = Warm 50 */
+  --brand-dark: #3A3430;    /* = Warm 800 */
+  --brand-black: #231F1C;   /* = Warm 900 */
 
   /* ─── Semantisch ─── */
   --success-100: #DCFCE7;  --success-500: #22C55E;  --success-700: #15803D;
@@ -37,23 +43,23 @@ Vollständiges CSS Custom Properties Set für die Implementierung des BAUER GROU
   --info-100: #DBEAFE;     --info-500: #3B82F6;     --info-700: #1D4ED8;
 
   /* ─── Akzent ─── */
+  --accent-blue: #2563EB;
   --accent-teal: #0D9488;
-  --accent-purple: #7C3AED;
-  --accent-pink: #DB2777;
-  --accent-indigo: #4F46E5;
+  --accent-amber: #D97706;
+  --accent-indigo: #6366F1;
 
   /* ─── Semantische Aliase ─── */
-  --text-primary: var(--gray-900);
-  --text-secondary: var(--gray-600);
-  --text-muted: var(--gray-500);
-  --text-disabled: var(--gray-400);
+  --text-primary: var(--warm-900);
+  --text-secondary: var(--warm-600);
+  --text-muted: var(--warm-500);
+  --text-disabled: var(--warm-400);
 
   --bg-primary: #FFFFFF;
-  --bg-subtle: var(--gray-50);
-  --bg-muted: var(--gray-100);
+  --bg-subtle: var(--warm-50);
+  --bg-muted: var(--warm-100);
 
-  --border: var(--gray-200);
-  --border-strong: var(--gray-300);
+  --border: var(--warm-200);
+  --border-strong: var(--warm-300);
 
   /* ─── Typography ─── */
   --font-body: system-ui, -apple-system, BlinkMacSystemFont,
@@ -73,7 +79,7 @@ body {
 }
 
 h1, h2, h3 {
-  color: var(--gray-900);
+  color: var(--warm-800);
 }
 
 a {

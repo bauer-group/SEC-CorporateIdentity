@@ -28,33 +28,33 @@
 | **800** | `#9A4509` | <span style="display:inline-block;width:48px;height:24px;background:#9A4509;border-radius:4px;vertical-align:middle;"></span> | Text (AAA konform) |
 | **900** | `#7C3A0A` | <span style="display:inline-block;width:48px;height:24px;background:#7C3A0A;border-radius:4px;vertical-align:middle;"></span> | Starker Akzent |
 
-## Grau Skala
+## Warm-Gray Skala
 
 <div class="color-scale">
-  <div style="background:#FAFAFA;color:#3F3F46;">50</div>
-  <div style="background:#F4F4F5;color:#3F3F46;">100</div>
-  <div style="background:#E4E4E7;color:#3F3F46;">200</div>
-  <div style="background:#D4D4D8;color:#3F3F46;">300</div>
-  <div style="background:#A1A1AA;color:white;">400</div>
-  <div style="background:#71717A;color:white;">500</div>
-  <div style="background:#52525B;color:white;">600</div>
-  <div style="background:#3F3F46;color:white;">700</div>
-  <div style="background:#27272A;color:white;">800</div>
-  <div style="background:#18181B;color:white;">900</div>
+  <div style="background:#F9F8F6;color:#3A3430;">50</div>
+  <div style="background:#F0EDEA;color:#3A3430;">100</div>
+  <div style="background:#E0DBD6;color:#3A3430;">200</div>
+  <div style="background:#C4BDB7;color:#3A3430;">300</div>
+  <div style="background:#A69E97;color:white;">400</div>
+  <div style="background:#887F78;color:white;">500</div>
+  <div style="background:#6B635C;color:white;">600</div>
+  <div style="background:#524B45;color:white;">700</div>
+  <div style="background:#3A3430;color:white;">800</div>
+  <div style="background:#231F1C;color:white;">900</div>
 </div>
 
 | Stufe | HEX | Vorschau | Anwendung |
 |-------|-----|----------|-----------|
-| **50** | `#FAFAFA` | <span style="display:inline-block;width:48px;height:24px;background:#FAFAFA;border-radius:4px;border:1px solid #E4E4E7;vertical-align:middle;"></span> | Seitenhintergrund |
-| **100** | `#F4F4F5` | <span style="display:inline-block;width:48px;height:24px;background:#F4F4F5;border-radius:4px;border:1px solid #E4E4E7;vertical-align:middle;"></span> | Karten-Hintergrund |
-| **200** | `#E4E4E7` | <span style="display:inline-block;width:48px;height:24px;background:#E4E4E7;border-radius:4px;vertical-align:middle;"></span> | Rahmen (Standard) |
-| **300** | `#D4D4D8` | <span style="display:inline-block;width:48px;height:24px;background:#D4D4D8;border-radius:4px;vertical-align:middle;"></span> | Rahmen (Stark) |
-| **400** | `#A1A1AA` | <span style="display:inline-block;width:48px;height:24px;background:#A1A1AA;border-radius:4px;vertical-align:middle;"></span> | Deaktivierter Text |
-| **500** | `#71717A` | <span style="display:inline-block;width:48px;height:24px;background:#71717A;border-radius:4px;vertical-align:middle;"></span> | Sekundärtext |
-| **600** | `#52525B` | <span style="display:inline-block;width:48px;height:24px;background:#52525B;border-radius:4px;vertical-align:middle;"></span> | Fließtext |
-| **700** | `#3F3F46` | <span style="display:inline-block;width:48px;height:24px;background:#3F3F46;border-radius:4px;vertical-align:middle;"></span> | Starker Text |
-| **800** | `#27272A` | <span style="display:inline-block;width:48px;height:24px;background:#27272A;border-radius:4px;vertical-align:middle;"></span> | Nahezu Schwarz |
-| **900** | `#18181B` | <span style="display:inline-block;width:48px;height:24px;background:#18181B;border-radius:4px;vertical-align:middle;"></span> | Überschriften |
+| **50** | `#F9F8F6` | <span style="display:inline-block;width:48px;height:24px;background:#F9F8F6;border-radius:4px;border:1px solid #E4E4E7;vertical-align:middle;"></span> | Seitenhintergrund, Brand Light |
+| **100** | `#F0EDEA` | <span style="display:inline-block;width:48px;height:24px;background:#F0EDEA;border-radius:4px;border:1px solid #E4E4E7;vertical-align:middle;"></span> | Karten-Hintergrund |
+| **200** | `#E0DBD6` | <span style="display:inline-block;width:48px;height:24px;background:#E0DBD6;border-radius:4px;vertical-align:middle;"></span> | Rahmen (Standard) |
+| **300** | `#C4BDB7` | <span style="display:inline-block;width:48px;height:24px;background:#C4BDB7;border-radius:4px;vertical-align:middle;"></span> | Rahmen (Stark), Dekoration |
+| **400** | `#A69E97` | <span style="display:inline-block;width:48px;height:24px;background:#A69E97;border-radius:4px;vertical-align:middle;"></span> | Deaktivierter Text |
+| **500** | `#887F78` | <span style="display:inline-block;width:48px;height:24px;background:#887F78;border-radius:4px;vertical-align:middle;"></span> | Sekundärtext |
+| **600** | `#6B635C` | <span style="display:inline-block;width:48px;height:24px;background:#6B635C;border-radius:4px;vertical-align:middle;"></span> | Fließtext (AA) |
+| **700** | `#524B45` | <span style="display:inline-block;width:48px;height:24px;background:#524B45;border-radius:4px;vertical-align:middle;"></span> | Starker Text (AAA) |
+| **800** | `#3A3430` | <span style="display:inline-block;width:48px;height:24px;background:#3A3430;border-radius:4px;vertical-align:middle;"></span> | Headlines, Brand Dark |
+| **900** | `#231F1C` | <span style="display:inline-block;width:48px;height:24px;background:#231F1C;border-radius:4px;vertical-align:middle;"></span> | Maximaler Kontrast, Brand Black |
 
 ## CSS Custom Properties
 
@@ -66,10 +66,10 @@
   --orange-600: #EA6D00;  --orange-700: #C2570A;
   --orange-800: #9A4509;  --orange-900: #7C3A0A;
 
-  --gray-50: #FAFAFA;     --gray-100: #F4F4F5;
-  --gray-200: #E4E4E7;    --gray-300: #D4D4D8;
-  --gray-400: #A1A1AA;    --gray-500: #71717A;
-  --gray-600: #52525B;    --gray-700: #3F3F46;
-  --gray-800: #27272A;    --gray-900: #18181B;
+  --warm-50: #F9F8F6;     --warm-100: #F0EDEA;
+  --warm-200: #E0DBD6;    --warm-300: #C4BDB7;
+  --warm-400: #A69E97;    --warm-500: #887F78;
+  --warm-600: #6B635C;    --warm-700: #524B45;
+  --warm-800: #3A3430;    --warm-900: #231F1C;
 }
 ```

@@ -55,6 +55,8 @@ export const en: LocaleSpecificConfig<DefaultTheme.Config> & { label: string; li
           text: 'Color System',
           items: [
             { text: 'Primary Color', link: '/en/colors/' },
+            { text: 'Secondary Colors', link: '/en/colors/secondary' },
+            { text: 'Neutral Colors', link: '/en/colors/neutrals' },
             { text: 'Color Scales', link: '/en/colors/scales' },
             { text: 'Semantic Colors', link: '/en/colors/semantic' },
             { text: 'Accent Colors', link: '/en/colors/accent' },

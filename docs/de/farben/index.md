@@ -37,6 +37,14 @@ Für Text verwenden Sie stattdessen:
 - <span style="color:#9A4509;font-weight:700;font-size:1.1em;">Orange 800 (#9A4509)</span> — 6.4:1 Kontrast → AA+ konform
 :::
 
-## Sekundärfarbe
+## Unterstützende Farben — Warme Grautöne
 
-Die Sekundärfarbe ist identisch mit der Primärfarbe. BAUER GROUP verwendet ein **monochromatisches Farbschema** auf Orange-Basis, ergänzt durch neutrale Grautöne.
+Die BAUER GROUP setzt auf ein **monochromatisches Farbschema**: Orange ist die einzige chromatische Farbe. Alle unterstützenden Töne basieren auf warm getönten Grautönen (Hue ≈28°), die mit Orange natürlich harmonieren.
+
+<div style="display:flex;gap:8px;flex-wrap:wrap;margin:16px 0;">
+  <div style="background:#524B45;color:white;padding:20px 24px;border-radius:12px;font-weight:700;min-width:100px;text-align:center;">Warm 700<br><span style="font-weight:400;font-size:0.85em;opacity:0.85;">#524B45</span></div>
+  <div style="background:#3A3430;color:white;padding:20px 24px;border-radius:12px;font-weight:700;min-width:100px;text-align:center;">Warm 800<br><span style="font-weight:400;font-size:0.85em;opacity:0.85;">#3A3430</span></div>
+  <div style="background:#231F1C;color:white;padding:20px 24px;border-radius:12px;font-weight:700;min-width:100px;text-align:center;">Warm 900<br><span style="font-weight:400;font-size:0.85em;opacity:0.85;">#231F1C</span></div>
+</div>
+
+→ [Vollständige Warm-Gray-Dokumentation mit Skala und Anwendungsregeln](/de/farben/sekundaer)

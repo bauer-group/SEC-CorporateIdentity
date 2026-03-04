@@ -50,6 +50,8 @@ export const de: LocaleSpecificConfig<DefaultTheme.Config> & { label: string; li
           text: 'Farbsystem',
           items: [
             { text: 'Primärfarbe', link: '/de/farben/' },
+            { text: 'Sekundärfarben', link: '/de/farben/sekundaer' },
+            { text: 'Neutrale Farben', link: '/de/farben/neutrale' },
             { text: 'Farbskalen', link: '/de/farben/skalen' },
             { text: 'Semantische Farben', link: '/de/farben/semantisch' },
             { text: 'Akzentfarben', link: '/de/farben/akzent' },
