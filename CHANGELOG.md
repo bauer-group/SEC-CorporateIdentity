@@ -1,3 +1,10 @@
+## [0.4.0](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.3.0...v0.4.0) (2026-03-04)
+
+### 🚀 Features
+
+* added advertising, print and stationery materials / canva documentation ([4b457f1](https://github.com/bauer-group/COM-CorporateIdentity/commit/4b457f1e7b77de53708be412d6280941d585815b))
+* aktualisiere Visitenkarten-Dokumentation und entferne veraltete Druckdateien ([0290824](https://github.com/bauer-group/COM-CorporateIdentity/commit/0290824986021781be7c83de9f3b7ff7aa823183))
+
 ## [0.3.0](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.2.2...v0.3.0) (2026-03-04)
 
 ### 🚀 Features
