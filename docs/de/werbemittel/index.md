@@ -170,9 +170,9 @@ Vorwahlen werden **ohne Klammern** dargestellt. Gilt einheitlich für alle Gesch
 
 | Format | Beispiel |
 |--------|----------|
-| **Telefon** | Tel. +49 9971 20098 - 100 |
+| **Telefon** | Tel. +49 9971 20098 - 199 |
 | **Fax** | Fax +49 9971 20098 - 4100 |
-| **Mobil** | Mobil +49 178 1444855 |
+| **Mobil** | Mobil +49 178 1002005 |
 
 ## Canva-Einbettung
 

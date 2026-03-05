@@ -43,9 +43,9 @@ Vorwahlen werden **ohne Klammern** dargestellt:
 
 | Alt (2011) | Neu |
 |------------|-----|
-| Tel. +49 (9971) 20098 - 100 | Tel. +49 9971 20098 - 100 |
+| Tel. +49 (9971) 20098 - 199 | Tel. +49 9971 20098 - 199 |
 | Fax +49 (9971) 20098 - 4100 | Fax +49 9971 20098 - 4100 |
-| Mobil +49 (178) 1444855 | Mobil +49 178 1444855 |
+| Mobil +49 (178) 1002005 | Mobil +49 178 1002005 |
 
 ::: info Gilt für alle Druckmaterialien
 Diese Formatierung gilt einheitlich für Visitenkarten, Briefpapier und alle weiteren Geschäftsdrucksachen.
