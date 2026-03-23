@@ -39,7 +39,6 @@ jobs:
     name: 🔍 Validate Node.js Build
     uses: bauer-group/automation-templates/.github/workflows/nodejs-build.yml@main
     with:
-      node-version: '24'
       node-version-file: '.nvmrc'
       package-manager: 'npm'
       frozen-lockfile: true
