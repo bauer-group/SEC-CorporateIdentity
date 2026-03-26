@@ -50,8 +50,8 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Brand Guide (DE)', href: `${baseUrl}/feed-de.xml` }],
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Brand Guide (EN)', href: `${baseUrl}/feed-en.xml` }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Brand Guide (DE)', href: `${baseUrl}/feed-de.xml`, hreflang: 'de' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Brand Guide (EN)', href: `${baseUrl}/feed-en.xml`, hreflang: 'en' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['meta', { name: 'theme-color', content: '#FF8500' }],
     ['meta', { name: 'og:type', content: 'website' }],
