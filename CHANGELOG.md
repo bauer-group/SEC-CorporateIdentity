@@ -1,3 +1,15 @@
+## [0.5.0](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.4.2...v0.5.0) (2026-03-26)
+
+### 🚀 Features
+
+* **seo:** add robots.txt and RSS feeds per locale ([df72181](https://github.com/bauer-group/COM-CorporateIdentity/commit/df721816b8c6cce28bc17f56006b08f168999c8c))
+* **theme:** add print stylesheet, sitemap, and image lazy loading ([e872591](https://github.com/bauer-group/COM-CorporateIdentity/commit/e8725910b1e7efa8dc121a0d3feef8cf28b0b8d0))
+
+### 🐛 Bug Fixes
+
+* **config:** set default RSS language to en for consistency ([2ddd803](https://github.com/bauer-group/COM-CorporateIdentity/commit/2ddd8033021c36c7f3d855804da9af8ed312fa5f))
+* **deps:** resolve npm audit vulnerabilities ([e94034f](https://github.com/bauer-group/COM-CorporateIdentity/commit/e94034fa3b1c124deff8fca54e17c154cd890258))
+
 ## [0.4.2](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.4.1...v0.4.2) (2026-03-05)
 
 ### 🐛 Bug Fixes
