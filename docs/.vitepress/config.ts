@@ -23,7 +23,7 @@ export default defineConfig({
         baseUrl,
         copyright: `© ${new Date().getFullYear()} BAUER GROUP`,
         description: 'BAUER GROUP Brand Guidelines Updates',
-        language: 'de',
+        language: 'en',
         author: { name: 'BAUER GROUP', link: baseUrl },
         icon: true,
         ignoreHome: true,
