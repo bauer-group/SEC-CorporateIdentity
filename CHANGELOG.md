@@ -1,3 +1,9 @@
+## [0.5.4](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.5.3...v0.5.4) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **rss:** implement per-locale feeds via URL filter ([fb24917](https://github.com/bauer-group/COM-CorporateIdentity/commit/fb249179095ae6a8cac6d8e81a7a0e5a9b39d72a))
+
 ## [0.5.3](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.5.2...v0.5.3) (2026-03-26)
 
 ### 🐛 Bug Fixes
