@@ -1,3 +1,9 @@
+## [0.5.3](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.5.2...v0.5.3) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **rss:** simplify to single feed.xml with auto-discovery ([8704768](https://github.com/bauer-group/COM-CorporateIdentity/commit/87047688a754283471bdf46c3a7cd8b655309a70))
+
 ## [0.5.2](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.5.1...v0.5.2) (2026-03-26)
 
 ### 🐛 Bug Fixes
