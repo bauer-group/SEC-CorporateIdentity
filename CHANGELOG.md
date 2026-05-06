@@ -1,3 +1,9 @@
+## [0.6.0](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.5.5...v0.6.0) (2026-05-06)
+
+### 🚀 Features
+
+* **farben:** added OKLCH notation, aliases doc and DE/EN parity ([b3ad56e](https://github.com/bauer-group/COM-CorporateIdentity/commit/b3ad56ea6883125e0b66ab6e77d4f37b08a6bdcf))
+
 ## [0.5.5](https://github.com/bauer-group/COM-CorporateIdentity/compare/v0.5.4...v0.5.5) (2026-03-26)
 
 ### 🐛 Bug Fixes
